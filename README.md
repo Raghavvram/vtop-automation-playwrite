@@ -22,8 +22,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/newVtopScraper.git
-    cd newVtopScraper
+    git clone https://github.com/Raghavvram/vtop-automation-playwrite.git
+    cd vtop-automation-playwrite
     ```
 
 2.  **Create and activate a virtual environment:**
